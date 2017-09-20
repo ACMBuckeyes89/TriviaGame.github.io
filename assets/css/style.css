@@ -1,0 +1,33 @@
+body {
+	background-image: url(http://cdn.history.com/sites/2/2014/01/DY003699.jpg);
+
+}
+.jumbotron {
+	height: 600px;
+	width: 900px;
+	position: relative;
+	left: 100px;
+	top:50px;
+	background-color: #001a33;
+	color: #feffff ;
+}
+.display-1 {
+	text-align: center;
+}
+
+.lead {
+	position: relative;
+	left: 350px;
+	top: 50px;
+}
+
+.btn {
+	background-color: #FF0000;
+	border-color: #FF0000;
+}
+
+#seconds {
+	position: relative;
+	left: 125px;
+	font-size: 45px;
+}
